@@ -1,8 +1,5 @@
 ### Hi It's me, ARM 👋👨🏻‍💻
 
-<!--
-**Kongkawee/Kongkawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🕊️ About me!
 
 👀 My name is Kongkawee Chayarat or you can call me Arm.
@@ -12,3 +9,7 @@
 Currently, I'm learning about Artwork, Animation, Music, Sound effects, Plot creation, Various Game engines, and more.
 I love coding because I think coding is like an adventure; we don't know what problems are coming to us.
 I like how we can handle the unexpected problem and also love the feeling when we can pass through it.
+<!--
+**Kongkawee/Kongkawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+

@@ -9,14 +9,9 @@
 * Currently, I'm learning about Artwork, Animation, Music, Sound effects, Plot creation, Various Game engines, and more. <br>
 * I love coding because I think coding is like an adventure; we don't know what problems are coming to us. <br>
 * I like how we can handle the unexpected problem and also love the feeling when we can pass through it. <br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kongkawee&theme=dark" width="48%" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=kongkawee&show_icons=true&theme=gotham" alt="github stats" width="46%" align="left"/>
+
 <!--
 **Kongkawee/Kongkawee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-
-### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
-
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)

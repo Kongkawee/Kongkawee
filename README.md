@@ -4,9 +4,6 @@
 
 * 👀 My name is Kongkawee Chayarat or you can call me Arm.
 * 🎓 I am pursuing a Bachelor's degree in Software Engineering at Kasetsart University.
-* 👾 I have learned various programming languages and thoroughly enjoy working with them, such as Python, Java, C#, and C++.
-* 🏆 I am passionate about both artwork and coding. My goal is to become a game and AI developer.
-* Currently, I'm learning about Artwork, Animation, Music, Sound effects, Plot creation, Various Game engines, and more.
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,java,cpp,cs,azure,django)](https://skillicons.dev)
 

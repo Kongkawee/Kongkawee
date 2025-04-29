@@ -1,8 +1,7 @@
 <div align="center">
-
 <h1>Hey There It's me, ARM <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 👨🏻‍💻</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%">
 
 </div>
 
@@ -11,25 +10,11 @@
 - 👀 My name is Kongkawee Chayarat or you can call me Arm.
 - 🎓 I'm pursuing a Bachelor's degree in Software Engineering at Kasetsart University.
 
----
 
-<h3> 💻 Skills </h2>
+<h3> 💻 Stacks </h2>
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,java,cpp,cs,kotlin,swift)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,java,cpp,cs,kotlin,swift,nextjs,react,tailwind,flask,django,selenium,unity,spring,vscode,postman,gcp,aws,git,docker,azure,postgres,prisma,mysql,mongodb)](https://skillicons.dev)
 
-<h3> 🛠️ Frameworks & Libraries </h2>
-
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=nextjs,react,tailwind,flask,django,selenium,unity,spring)](https://skillicons.dev)
-
-<h3> ⚙️ Tools & Platforms </h2>
-
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,gcp,aws,git,docker,azure)](https://skillicons.dev)
-
-<h3> 🗄️ Databases </h2>
-
-[![Databases](https://skillicons.dev/icons?i=postgres,prisma,mysql,mongodb)](https://skillicons.dev)
-
----
 
 <h3 align="center"> 📈 GitHub Stats </h2>
 

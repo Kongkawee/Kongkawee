@@ -1,18 +1,60 @@
-# Hey There It's me, ARM 👋👨🏻‍💻
+<div align="center">
 
-## 🕊️ About me!
+<h1>Hey There It's me, ARM <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 👨🏻‍💻</h1>
 
-* 👀 My name is Kongkawee Chayarat or you can call me Arm.
-* 🎓 I am pursuing a Bachelor's degree in Software Engineering at Kasetsart University.
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,java,cpp,cs,azure,django)](https://skillicons.dev)
+</div>
 
-## SKILLS
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongkawee&layout=compact&theme=tokyonight)
+<h3> 🕊️ About me! </h2>
 
-## STATS
-<img src="https://github-readme-stats.vercel.app/api?username=kongkawee&show_icons=true&theme=tokyonight" alt="github stats" width="46%" align="left"/> 
+- 👀 My name is Kongkawee Chayarat or you can call me Arm.
+- 🎓 I'm pursuing a Bachelor's degree in Software Engineering at Kasetsart University.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kongkawee&theme=tokyonight" width="48%" align="right">
+---
+
+<h3> 💻 Skills </h2>
+
+[![Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,java,cpp,cs,kotlin,swift)](https://skillicons.dev)
+
+<h3> 🛠️ Frameworks & Libraries </h2>
+
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=nextjs,react,tailwind,flask,django,selenium,unity,spring)](https://skillicons.dev)
+
+<h3> ⚙️ Tools & Platforms </h2>
+
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,gcp,aws,git,docker,azure)](https://skillicons.dev)
+
+<h3> 🗄️ Databases </h2>
+
+[![Databases](https://skillicons.dev/icons?i=postgres,prisma,mysql,mongodb)](https://skillicons.dev)
+
+---
+
+<h3 align="center"> 📈 GitHub Stats </h2>
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" valign="center">
+      <a href="https://github.com/kongkawee">
+        <img src="https://github-readme-stats.vercel.app/api?username=kongkawee&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kongkawee&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongkawee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%"/>
+</div>
+
 
 

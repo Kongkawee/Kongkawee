@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-[![Contacts](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev](https://www.linkedin.com/in/kongkawee-chayarat-b98452269/))
+[![Contacts](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kongkawee-chayarat-b98452269/)
 [![Contacts](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev)
 [![Contacts](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 

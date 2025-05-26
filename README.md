@@ -20,7 +20,7 @@
 
 <h3> 💻 Stacks </h2>
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,java,cpp,cs,kotlin,swift,nextjs,react,tailwind,flask,fastapi,django,selenium,unity,spring,figma,vscode,postman,gcp,aws,git,docker,azure,postgres,prisma,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,java,cpp,cs,kotlin,swift,nextjs,react,tailwind,vue,flask,fastapi,django,selenium,unity,spring,figma,vscode,postman,gcp,aws,git,docker,azure,postgres,prisma,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 
 <h3 align="center"> 📈 GitHub Stats </h2>

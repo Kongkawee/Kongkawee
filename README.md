@@ -1,6 +1,10 @@
 <div align="center">
 <h1>Hello World, I'm Arm <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 👨🏻‍💻</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kongkawee&color=blueviolet&label=Your're+Visitor+Number&style=for-the-badge" alt="Visitor Counter">
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%">
 
 <br/>
@@ -12,18 +16,19 @@
 
 </div>
 
-<h3> 🕊️ About me! </h2>
+<h3> 🕊️ About me! </h3>
 
 - 👀 My name is Kongkawee Chayarat or you can call me Arm.
 - 🎓 I'm pursuing a Bachelor's degree in Software Engineering at Kasetsart University.
+- 👾 I'm not a vibe coder, call me "**Vibe Engineer**" 😉.
 
 
-<h3> 💻 Stacks </h2>
+<h3> 💻 Stacks </h3>
 
 [![Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,java,cpp,cs,kotlin,swift,nextjs,react,tailwind,vue,flask,fastapi,django,selenium,unity,spring,figma,vscode,postman,gcp,aws,git,docker,azure,postgres,prisma,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 
-<h3 align="center"> 📈 GitHub Stats </h2>
+<h3 align="center"> 📈 GitHub Stats </h3>
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
@@ -47,6 +52,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongkawee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%"/>
 </div>
-
 
 
